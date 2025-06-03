@@ -24,4 +24,4 @@ An interactive Tableau/Power BI dashboard to analyze global sales performance ac
 - `dashboard.png` (preview image)
 
 ## 📸 Preview
-![Dashboard Preview](../assets/global_sales_dashboard.png)
+![Dashboard Preview](../../assets/global_sales_dashboard.png)
