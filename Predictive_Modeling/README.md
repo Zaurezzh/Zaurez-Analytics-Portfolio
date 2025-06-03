@@ -21,3 +21,7 @@ Regression models built with Scikit-Learn and Prophet to forecast monthly sales.
 - Python (Pandas, NumPy, Scikit-Learn, XGBoost)
 - Jupyter Notebooks
 - R (Prophet, caret)
+
+- ## 📸 Preview
+![Customer Churn Confusion Matrix](../../assets/churn_conf_matrix.png)
+
