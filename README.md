@@ -19,6 +19,9 @@ Time series forecasting using Prophet to optimize inventory planning.
 ### 4. [🏠 Airbnb SQL Analysis](link-to-project-folder)
 Data exploration and insights using advanced SQL on Airbnb dataset.
 
+### 5. [📋 Project Tracker in Smartsheet](./smartsheet-projects/project-tracker)
+A dynamic project tracker built in Smartsheet with Gantt charts, conditional formatting, and automated alerts for real-time project status monitoring.
+
 ---
 
 ## 🛠 Tools & Technologies
