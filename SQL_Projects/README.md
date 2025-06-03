@@ -21,3 +21,7 @@ Built sales reports and inventory metrics from transactional datasets using SQL.
 - PostgreSQL
 - MySQL
 - SQLite
+
+- ## 📸 Preview
+![Airbnb SQL Schema or Output](../../assets/airbnb_query_diagram.png)
+
