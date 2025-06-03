@@ -19,3 +19,7 @@ Customizable dashboard for tracking department-level KPIs using formulas and con
 
 ## 🛠 Tools Used
 - Microsoft Excel (Pivot Tables, VLOOKUP/XLOOKUP, Macros, Data Validation)
+
+- 
+- ## 📸 Preview
+![Budget Model Preview](../../assets/budget_model_preview.png)
