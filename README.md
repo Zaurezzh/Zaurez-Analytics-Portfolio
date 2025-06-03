@@ -1,37 +1,45 @@
-
 # 📊 Zaurez Hamid's Analytics Portfolio
 
-Welcome to my data analytics portfolio — a curated collection of projects demonstrating my skills in business intelligence, data cleaning, predictive modeling, and dashboard development using Python, R, SQL, Tableau, Power BI, and Excel.
+Welcome to my data analytics portfolio — a curated collection of projects demonstrating my skills in business intelligence, data cleaning, predictive modeling, and dashboard development. I use tools like Python, R, SQL, Tableau, Power BI, and Excel to solve real-world business problems.
 
 ---
 
-## 🔹 Featured Projects
+## 🔹 Project Categories
 
-### 1. [📈 Global Sales Dashboard](link-to-project-folder)
-Interactive Tableau/Power BI dashboard to monitor sales, profit, and regional KPIs.
+### 📁 [Business Dashboards](./Business_Dashboards)
+Interactive dashboards built with Tableau and Power BI to track KPIs and visualize insights.
 
-### 2. [🧠 Customer Churn Prediction](link-to-project-folder)
-End-to-end machine learning pipeline using Python to identify at-risk customers.
+### 📁 [Predictive Modeling](./Predictive_Modeling)
+Machine learning pipelines using Python and R to generate predictions and drive decisions.
 
-### 3. [📉 Sales Forecasting with R](link-to-project-folder)
-Time series forecasting using Prophet to optimize inventory planning.
+### 📁 [SQL Projects](./SQL_Projects)
+Complex queries and data exploration using PostgreSQL and MySQL.
 
-### 4. [🏠 Airbnb SQL Analysis](link-to-project-folder)
-Data exploration and insights using advanced SQL on Airbnb dataset.
+### 📁 [Excel Models](./Excel_Models)
+Dynamic models for budgeting, financial analysis, and KPI tracking.
 
-### 5. [📋 Project Tracker in Smartsheet](./smartsheet-projects/project-tracker)
-A dynamic project tracker built in Smartsheet with Gantt charts, conditional formatting, and automated alerts for real-time project status monitoring.
+### 📁 [Smartsheet Projects](./Smartsheet_Projects)
+Project tracking dashboards and workflow automation using Smartsheet.
+
+### 📁 [Reports & Presentations](./Reports_Presentations)
+Executive summaries and slide decks built from data project outcomes.
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Languages**: Python, R, SQL
-- **Visualization**: Tableau, Power BI, Excel
-- **Analysis**: Pandas, NumPy, Scikit-Learn, ggplot2
-- **Database**: PostgreSQL, MySQL, SQLite
+
+- **Languages**: Python, R, SQL  
+- **Libraries**: Pandas, NumPy, Scikit-learn, ggplot2, Prophet  
+- **Visualization**: Tableau, Power BI, Excel, Smartsheet  
+- **Databases**: PostgreSQL, MySQL, SQLite  
 
 ---
 
 ## 📬 Let's Connect
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/zaurez-h/))
-- [Email](mailto:zaurez.zh@gmail.com)
+
+- [LinkedIn](https://www.linkedin.com/in/zaurez-h/)
+- 📧 [Email](mailto:zaurez.zh@gmail.com)
+
+---
+
+> 📁 Each folder contains detailed README files for individual projects.
