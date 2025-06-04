@@ -24,4 +24,4 @@ End-to-end ML pipeline to predict churn probability of telecom customers using X
 - `model_metrics.png`
 
 ## 📸 Preview
-![Confusion Matrix](../assets/churn_conf_matrix.png)
+![Confusion Matrix](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/churn_conf_matrix.png)
