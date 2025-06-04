@@ -22,4 +22,4 @@ Customizable dashboard for tracking department-level KPIs using formulas and con
 
 - 
 - ## 📸 Preview
-![Budget Model Preview](../../Assets/budget_model_preview.png)
+![Budget Model Preview][(../../Assets/budget_model_preview.png)](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/budget_model_preview.png)
