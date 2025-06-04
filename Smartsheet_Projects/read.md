@@ -26,7 +26,7 @@ A Smartsheet-based project management dashboard used to track tasks, milestones,
 - ![Gantt View](./screenshot2.png)
 
 ## 📸 Preview
-![Smartsheet Tracker Dashboard](../../Assets/smartsheet_tracker_dashboard.png)
+![Smartsheet Tracker Dashboard](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/smartsheet_tracker_dashboard.png)
 
 *Note: Screenshots are anonymized to protect confidential data.*
 
