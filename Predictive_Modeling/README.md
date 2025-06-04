@@ -23,5 +23,5 @@ Regression models built with Scikit-Learn and Prophet to forecast monthly sales.
 - R (Prophet, caret)
 
 - ## 📸 Preview
-![Customer Churn Confusion Matrix](../../assets/churn_conf_matrix.png)
+![Customer Churn Confusion Matrix](../../Assets/churn_conf_matrix.png)
 
