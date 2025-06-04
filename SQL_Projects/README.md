@@ -23,5 +23,5 @@ Built sales reports and inventory metrics from transactional datasets using SQL.
 - SQLite
 
 - ## 📸 Preview
-![Airbnb SQL Schema or Output](../../Assets/airbnb_query_diagram.png)
+![Airbnb SQL Schema or Output](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/airbnb_query_diagram.png))
 
