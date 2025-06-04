@@ -1,29 +1,27 @@
-# 📋 Smartsheet Projects
+# 📄 Smartsheet Projects
 
-This section highlights my experience building dynamic dashboards, project trackers, and workflow automations using Smartsheet.
+This section contains automation and workflow solutions built using Smartsheet's capabilities including formulas, dashboards, data collection, and API integrations.
 
 ---
 
-## ✅ Featured Project: Project Tracker & Dashboard
+## 📌 Featured Projects
 
-### 🗂 Overview
-A Smartsheet-based project management dashboard used to track tasks, milestones, ownership, and deadlines across multiple teams.
+### 1. [✅ Project Tracker with Auto-Reminders](link-to-sample-or-pdf)
+A dynamic project tracker built using Smartsheet's conditional logic and reminder automation.
 
-### 📌 Features
-- Gantt chart view with dependency linking
-- Automated alerts & reminders
-- Conditional formatting to flag delays
-- Resource allocation and workload tracking
-- Embedded dashboard summaries with key KPIs
+**Features:**
+- Color-coded status tracking
+- Automated overdue task alerts
+- Shared dashboard with Gantt view
 
-### 🎯 Business Impact
-- Improved on-time delivery by 20%
-- Streamlined cross-functional collaboration
-- Enabled real-time visibility into project health
+### 2. [📊 KPI Dashboard + Data Entry Sheet](link-to-sample-or-pdf)
+KPI input sheet tied to a live dashboard for real-time business performance tracking.
 
-### 🔗 Demo / Screenshots
-- ![Smartsheet Dashboard Screenshot](./screenshot1.png)
-- ![Gantt View](./screenshot2.png)
+**Features:**
+- Linked sheets for central data input
+- Summary report dashboard
+- Permissions for different user roles
+
 
 ## 📸 Preview
 ![Smartsheet Tracker Dashboard](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/smartsheet_tracker_dashboard.png)
