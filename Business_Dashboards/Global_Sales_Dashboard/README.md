@@ -61,6 +61,10 @@ This Power BI project analyzes global sales data from a fictional superstore to 
 ### 🔹 Map Visual
 ![Map Visual](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/global_map.png)
 
+
+### 🧩 Download the PBIX File  
+[📥 Global_Sales_Dashboard.pbix](Business_Dashboards/Global_Sales_Dashboard/Glob_Sal_Dashb.pbix)
+
 ---
 
 ## 🎓 Author
