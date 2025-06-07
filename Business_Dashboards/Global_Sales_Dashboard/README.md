@@ -64,7 +64,7 @@ This Power BI project analyzes global sales data from a fictional superstore to 
 
 ## 🎓 Author
 **Zaurez Hamid**  
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+[LinkedIn]([#](https://www.linkedin.com/in/zaurez-h/)) | [GitHub]([#](https://github.com/Zaurezzh)) 
 
 ---
 
