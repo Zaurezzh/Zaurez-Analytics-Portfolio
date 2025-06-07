@@ -6,7 +6,7 @@ This Power BI project analyzes global sales data from a fictional superstore to 
 
 ## 🌐 Project Overview
 - **Tool**: Power BI Desktop  
-- **Dataset**: Global Superstore (Kaggle)  
+- **Dataset**: Global Superstore (Kaggle)  [Global Superstore](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
 - **Time Period**: 2011 - 2014  
 - **Objective**: Deliver clear, actionable insights across regions, product categories, and time periods
 
