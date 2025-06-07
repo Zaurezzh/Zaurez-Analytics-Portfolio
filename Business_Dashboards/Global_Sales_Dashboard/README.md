@@ -63,7 +63,7 @@ This Power BI project analyzes global sales data from a fictional superstore to 
 
 
 ### 🧩 Download the PBIX File  
-[📥 Global_Sales_Dashboard.pbix](Business_Dashboards/Global_Sales_Dashboard/Glob_Sal_Dashb.pbix)
+[📥 Global_Sales_Dashboard.pbix](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/Global_Sales_Dashboard/Glob_Sal_Dash.pbix)
 
 ---
 
