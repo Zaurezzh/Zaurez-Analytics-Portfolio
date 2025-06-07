@@ -58,7 +58,8 @@ This Power BI project analyzes global sales data from a fictional superstore to 
 ---
 
 ## 📄 Report Preview
-*Insert PNG snapshots of key pages here if displaying on GitHub*
+### 🔹 Map Visual
+![Map Visual](Assets/global_map.png)
 
 ---
 
