@@ -60,8 +60,8 @@ This Power BI project analyzes global sales data from a fictional superstore to 
 ## 📄 Report Preview
 ### 🔹 Map Visual
 ![Map Visual](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/global_map.png)
-![Regional Sales Performance](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Regional Sales Performance.png)
-![Quarterly Profit and Sales Trend by Year](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Quarterly Profit and Sales Trend by Year.png)
+![Regional Sales Performance](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Regional%20Sales%20Performance.png)
+![Quarterly Profit and Sales Trend by Year](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Quarterly%20Profit%20and%20Sales%20Trend%20by%20Year.png)
 ![Map Visual](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/global_map.png)
 
 
