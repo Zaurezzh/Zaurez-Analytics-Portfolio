@@ -6,7 +6,7 @@ This folder showcases interactive dashboards created in Tableau and Power BI to 
 
 ## 📌 Projects Included
 
-### ▸ ![Global Sales Dashboard](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/Global_Sales_Dashboard/README.md)
+### ▸ [Global Sales Dashboard](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/Global_Sales_Dashboard/README.md)
 Interactive dashboard to analyze sales, profit margins, and regional trends across time periods.
 
 ### ▸ [HR Analytics Dashboard](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/HR%20Analytics%20Dashboard/readme.md)
