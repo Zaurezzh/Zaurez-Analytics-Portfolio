@@ -20,8 +20,7 @@ This Power BI dashboard analyzes global superstore sales to uncover trends in re
 - Regional sales map + decomposition tree
 - Drill-throughs and dynamic filters
 
-📷 *Preview:*  
-![Sales Dashboard](../assets/global_sales_dashboard.png)
+
 
 ---
 
@@ -42,7 +41,7 @@ This Tableau dashboard explores employee attrition, departmental performance, an
 - Simulated decomposition tree for attrition insights
 
 📷 *Preview:*  
-![HR Dashboard](../assets/hr_dashboard_overview.png)  
+
 🔗 [View Live on Tableau Public](https://public.tableau.com/app/profile/zaurez.hamid/viz/HRAnalytics_17493496621380/Dashboard1)
 
 
