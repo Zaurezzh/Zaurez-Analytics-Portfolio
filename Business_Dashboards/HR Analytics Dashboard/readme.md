@@ -1,9 +1,4 @@
-ChatGPT said:
-Great — let’s adapt your existing Power BI-style README.md for the HR Analytics Dashboard (Tableau) version. Below is a tailored version ready to paste into your GitHub repo:
 
-markdown
-Copy
-Edit
 # 👥 HR Analytics Dashboard (Tableau)
 
 This Tableau dashboard project analyzes IBM’s HR Analytics Attrition dataset to explore employee turnover, departmental performance, and satisfaction indicators. Built with storytelling and interactivity in mind, the dashboard is ideal for executives, analysts, and portfolio showcases.
