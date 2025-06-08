@@ -39,7 +39,7 @@ This Tableau dashboard project analyzes IBM’s HR Analytics Attrition dataset t
 
 ## 📈 Dashboard Preview
 
-![Dashboard Overview](assets/hr_dashboard_overview.png)  
+![Dashboard Overview](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/hr_dashboard_overview.png)
 *Includes KPI cards, department charts, radar analysis, and drilldowns*
 
 ---
