@@ -64,4 +64,4 @@ This Tableau dashboard project analyzes IBM’s HR Analytics Attrition dataset t
 
 ## 🎓 Author
 **Zaurez Hamid**  
-[LinkedIn](#) | [Tableau Public](https://public.tableau.com/app/profile/zaurez.hamid/viz/HRAnalytics_17493496621380/Dashboard1) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/zaurez-h/) | [Tableau Public](https://public.tableau.com/app/profile/zaurez.hamid/viz/HRAnalytics_17493496621380/Dashboard1)
