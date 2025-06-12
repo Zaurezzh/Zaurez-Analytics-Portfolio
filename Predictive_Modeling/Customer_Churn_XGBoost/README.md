@@ -59,15 +59,23 @@ This machine learning project uses Python to predict customer churn using the Te
 
 ### 🔹 SHAP Summary Plot
 
-![SHAP Summary](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/churn_shap_summary.png)
+![SHAP Summary](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/SHAP%20Summary%20Plot.PNG)
 
-### 🔹 Confusion Matrix
+### 🔹 Confusion Matrix - Random Forest
 
-![Confusion Matrix](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/churn_conf_matrix.png)
+![Confusion Matrix - RF](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Confusion%20Matrix-RF.PNG)
+
+### 🔹 Confusion Matrix - Log Reg
+
+![Confusion Matrix - LR](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Confusion%20Matrix-LR.PNG)
+
+### 🔹 Confusion Matrix - XG
+
+![Confusion Matrix - XG](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Confusion%20Matrix-XG.PNG)
 
 ### 🔹 ROC Curve
 
-![ROC Comparison](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/churn_roc_curve.png)
+![ROC Comparison](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/ROC%20Curve.PNG)
 
 ---
 
