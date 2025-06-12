@@ -16,17 +16,14 @@ This project applies supervised machine learning to predict customer churn using
 - **Tool**: Python (Jupyter / Colab)  
 - **Dataset**: [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 
-
----
-
 ## 📊 Key Features
 
-### ✅ Exploratory Data Analysis (EDA)
-### ⚙️ Data Preparation
-### 🤖 Machine Learning Models
-### 📈 Model Evaluation
-### 🔍 Explainability
-### ⚖️ Fairness Insights
+ ✅ Exploratory Data Analysis (EDA)
+ ⚙️ Data Preparation
+ 🤖 Machine Learning Models
+ 📈 Model Evaluation
+ 🔍 Explainability
+ ⚖️ Fairness Insights
 
 
 ### ▸ Loan Default Risk Modeling  
