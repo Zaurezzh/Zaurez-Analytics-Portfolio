@@ -43,7 +43,7 @@ This Tableau dashboard explores employee attrition, departmental performance, an
 
 ---
 
-## 🧠 [Operations KPI Monitor](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/OperationsKPI/README.md) (Power BI + R)
+## 🧠 [Operations KPI Monitor](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/OperationsKPI/readme.md) (Power BI + R + Python)
 
 This advanced Power BI dashboard explores operational KPIs and customer behavior for a pizza chain. It features forecasting, R-based clustering, decomposition trees, and first-time order tracking for business optimization.
 
