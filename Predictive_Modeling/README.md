@@ -6,8 +6,28 @@ This folder contains end-to-end machine learning workflows — from data preproc
 
 ## 📌 Projects Included
 
-### ▸ Customer Churn Prediction  
-Classification model using XGBoost to identify high-risk customers and recommend retention actions.
+### ▸ 🧠 Customer Churn Prediction (Python))
+
+This project applies supervised machine learning to predict customer churn using the Telco dataset. It integrates advanced preprocessing, class balancing, multiple classification models, and SHAP explainability for interpretability. Designed as a master's-to-PhD level portfolio project.
+
+---
+
+## 📂 Project Overview
+- **Tool**: Python (Jupyter / Colab)  
+- **Dataset**: [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
+
+
+---
+
+## 📊 Key Features
+
+### ✅ Exploratory Data Analysis (EDA)
+### ⚙️ Data Preparation
+### 🤖 Machine Learning Models
+### 📈 Model Evaluation
+### 🔍 Explainability
+### ⚖️ Fairness Insights
+
 
 ### ▸ Loan Default Risk Modeling  
 Logistic regression and decision tree models applied to financial data to predict loan defaults.
