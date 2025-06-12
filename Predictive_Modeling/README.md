@@ -5,7 +5,7 @@ This folder contains end-to-end machine learning workflows — from data preproc
 ---
 
 
-##  🧠 [Customer Churn Prediction] (https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Customer_Churn_XGBoost/README.md) (Python)
+##  🧠 [Customer Churn Prediction](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Customer_Churn_XGBoost/README.md) (Python)
 
 This project applies supervised machine learning to predict customer churn using the Telco dataset. It integrates advanced preprocessing, class balancing, multiple classification models, and SHAP explainability for interpretability. Designed as a master's-to-PhD level portfolio project.
 
