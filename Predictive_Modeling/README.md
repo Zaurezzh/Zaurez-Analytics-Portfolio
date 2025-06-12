@@ -4,7 +4,6 @@ This folder contains end-to-end machine learning workflows — from data preproc
 
 ---
 
-## 📌 Projects Included
 
 ### ▸ 🧠 Customer Churn Prediction (Python))
 
