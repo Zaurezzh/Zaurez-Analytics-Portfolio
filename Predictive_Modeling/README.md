@@ -22,6 +22,7 @@ This project applies supervised machine learning to predict customer churn using
  - 🔍 **Explainability**
  - ⚖️ **Fairness Insights**
 
+---
 
 ### ▸ Loan Default Risk Modeling  
 Logistic regression and decision tree models applied to financial data to predict loan defaults.
