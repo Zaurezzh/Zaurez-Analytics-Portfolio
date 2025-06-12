@@ -9,9 +9,7 @@ This folder contains end-to-end machine learning workflows — from data preproc
 
 This project applies supervised machine learning to predict customer churn using the Telco dataset. It integrates advanced preprocessing, class balancing, multiple classification models, and SHAP explainability for interpretability. Designed as a master's-to-PhD level portfolio project.
 
----
 
-## 📂 Project Overview
 - **Tool**: Python (Jupyter / Colab)  
 - **Dataset**: [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 
