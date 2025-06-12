@@ -56,12 +56,15 @@ This Power BI dashboard analyzes the operational, sales, and customer behavior p
 ---
 
 ## 📄 Report Preview
-![Executive Summary](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/pizza_exec_summary.png)  
-![Pareto Analysis](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/pizza_pareto.png)  
-![Decomposition Tree](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/pizza_decomp.png)  
-![Revenue Forecasting](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/pizza_forecast_compare.png)  
-![K-Means Clustering](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/pizza_kmeans.png)  
-![First Time Orders](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/pizza_first_time_order.png)
+![Executive Summary](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Executive%20Summary.PNG)
+
+
+![Pareto Analysis](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Pareto%20Analysis.PNG)  
+
+
+![Revenue Forecasting](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Revenue%20Forecasting.PNG))  
+
+
 
 ---
 
