@@ -80,7 +80,7 @@ This machine learning project uses Python to predict customer churn using the Te
 ---
 
 ### 📥 Download Notebook
-[📘 Telco_Customer_Churn.ipynb](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/Churn_Prediction/Telco_Customer_Churn.ipynb)
+[📘 Telco_Customer_Churn.ipynb](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Customer_Churn_XGBoost/Telco_Customer_Churn.ipynb)
 
 ---
 
