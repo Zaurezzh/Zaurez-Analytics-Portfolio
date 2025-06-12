@@ -1,57 +1,5 @@
 # 📊 Business Dashboards Portfolio
 
-This folder contains interactive analytics dashboards created using **Power BI** and **Tableau**, focusing on real-world business scenarios including global sales performance and HR attrition analytics.
-
----
-
-## 📈  [Global Sales Dashboard](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/Global_Sales_Dashboard/README.md) (Power BI)
-
-This Power BI dashboard analyzes global superstore sales to uncover trends in revenue, profitability, and regional performance. Designed for storytelling and decision-making.
-
-### 🔧 Tools & Data
-- **Tool**: Power BI Desktop  
-- **Dataset**: Global Superstore (Kaggle)  
-- **Time Period**: 2011–2014
-
-### 🔍 Key Features
-- KPI cards: Total Sales, Profit, Orders, Avg Order Value
-- Sales & Profit trends over time
-- Top 10 products by revenue
-- Regional sales map + decomposition tree
-- Drill-throughs and dynamic filters
-
-
-
----
-
-## 👥 [HR Analytics Dashboard](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/HR%20Analytics%20Dashboard/readme.md) (Tableau)
-
-This Tableau dashboard explores employee attrition, departmental performance, and satisfaction scores using IBM's HR dataset. It features drilldowns, interactivity, and diagnostic visuals.
-
-### 🔧 Tools & Data
-- **Tool**: Tableau Public  
-- **Dataset**: [IBM HR Analytics Attrition Dataset (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-
-### 🔍 Key Features
-- Executive KPIs: Headcount, Attrition Rate, Avg Age
-- Attrition breakdown by Department, Job Role
-- Drilldown: Department → Education Field → Gender
-- Radar chart and satisfaction bar graphs
-- Filter panel + reset button
-- Simulated decomposition tree for attrition insights
-
-📷 *Preview:*  
-
-🔗 [View Live on Tableau Public](https://public.tableau.com/app/profile/zaurez.hamid/viz/HRAnalytics_17493496621380/Dashboard1)
-
-
-### ▸ Operations KPI Monitor  
-Visualizes operational metrics like cycle time, inventory turnover, and service level.
-
-
----
-# 📊 Business Dashboards Portfolio
-
 This folder contains interactive analytics dashboards created using **Power BI** and **Tableau**, focusing on real-world business scenarios including global sales performance, HR attrition analytics, and operations optimization for a pizza company.
 
 ---
@@ -100,7 +48,7 @@ This Tableau dashboard explores employee attrition, departmental performance, an
 This advanced Power BI dashboard explores operational KPIs and customer behavior for a pizza chain. It features forecasting, R-based clustering, decomposition trees, and first-time order tracking for business optimization.
 
 ### 🔧 Tools & Data
-- **Tool**: Power BI Desktop + R Script Integration  
+- **Tool**: Power BI Desktop + R + Python Script Integration  
 - **Dataset**: [Pizza Company KPI Dataset (Kaggle)](https://www.kaggle.com/datasets/alexveezee/dashboard-addressing-the-kpis-of-a-pizza-company)  
 - **Time Period**: 2015
 
@@ -114,8 +62,7 @@ This advanced Power BI dashboard explores operational KPIs and customer behavior
 - First-Time Customer Order Trend tracking  
 - Slicers, tooltips, and dynamic drilldowns
 
-📂 *Folder:* `Business_Dashboards/OperationsKPI/`  
-📥 *PBIX:* [Download Power BI Report](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/OperationsKPI/Pizza_Operations_KPI_Monitor.pbix)
+
 
 ---
 
