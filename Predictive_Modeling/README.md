@@ -18,12 +18,12 @@ This project applies supervised machine learning to predict customer churn using
 
 ## 📊 Key Features
 
- ✅ Exploratory Data Analysis (EDA)
- ⚙️ Data Preparation
- 🤖 Machine Learning Models
- 📈 Model Evaluation
- 🔍 Explainability
- ⚖️ Fairness Insights
+ ✅ **Exploratory Data Analysis (EDA)**
+ ⚙️ **Data Preparation**
+ 🤖 **Machine Learning Models**
+ 📈 **Model Evaluation**
+ 🔍 **Explainability**
+ ⚖️ **Fairness Insights**
 
 
 ### ▸ Loan Default Risk Modeling  
