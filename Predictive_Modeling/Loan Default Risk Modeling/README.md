@@ -7,7 +7,7 @@ This machine learning project predicts loan approval status using classification
 
 ## 🌐 Project Overview
 - **Tool**: Python (Google Colab)
-- **Dataset**: [Loan Prediction Dataset – Kaggle](https://www.kaggle.com/datasets/)
+- **Dataset**: [Loan Prediction Dataset – Kaggle](https://www.kaggle.com/datasets/ninzaami/loan-predication))
 - **File Used**: `train_u6lujuX_CVtuZ9i.csv`
 - **Objective**: Build a classification model to predict loan approval based on applicant data such as income, credit history, education, and marital status.
 
@@ -62,7 +62,3 @@ This machine learning project predicts loan approval status using classification
 **Zaurez Hamid**  
 [LinkedIn](https://www.linkedin.com/in/zaurez-h/) | [GitHub](https://github.com/Zaurezzh)
 
----
-
-## ✉️ Contact & Feedback
-Feel free to connect for collaboration, feedback, or implementation help!
