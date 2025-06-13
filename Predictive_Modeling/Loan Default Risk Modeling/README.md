@@ -54,7 +54,7 @@ This machine learning project predicts loan approval status using classification
 ---
 
 ## 📄 Notebook Preview
-[📥 loan_default_model.ipynb](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Loan_Default_Risk/loan_default_model.ipynb)
+[📥 loan_default_model.ipynb](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Loan%20Default%20Risk%20Modeling/Loan_default.ipynb)
 
 ---
 
