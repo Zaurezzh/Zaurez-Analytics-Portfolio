@@ -51,7 +51,7 @@ This machine learning project uses Python to predict customer churn using the Te
 **Ideal for:**
 - Data scientists building end-to-end ML pipelines  
 - Analysts presenting churn risk to business stakeholders  
-- Students demonstrating predictive modeling in their portfolio
+
 
 ---
 
