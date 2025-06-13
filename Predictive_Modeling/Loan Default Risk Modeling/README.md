@@ -41,7 +41,7 @@ This machine learning project predicts loan approval status using classification
 
 | Confusion Matrix | ROC Curve | Feature Importance |
 |------------------|-----------|---------------------|
-| ![Confusion Matrix](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Loan_Confusion%20Matrix.PNG) | ![ROC Curve(https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Loan_ROC.PNG) | ![Feature Importance](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Loan_Feature%20Importance.PNG) |
+| ![Confusion Matrix](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Loan_Confusion%20Matrix.PNG) | ![ROC Curve](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Loan_ROC.PNG) | ![Feature Importance](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Loan_Feature%20Importance.PNG) |
 
 ---
 
