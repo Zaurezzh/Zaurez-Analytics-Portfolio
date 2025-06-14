@@ -50,12 +50,6 @@ This machine learning project predicts loan approval status using classification
 
 ---
 
-## 🧠 Skills Demonstrated
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering & Transformation  
-- Classification Modeling (Logistic Regression, Decision Tree)  
-- ROC-AUC and Confusion Matrix Interpretation  
-- Model Evaluation & Feature Importance  
 
 
 ## 🧩 Visual Outputs
@@ -63,6 +57,15 @@ This machine learning project predicts loan approval status using classification
 | Confusion Matrix | ROC Curve | Feature Importance |
 |------------------|-----------|---------------------|
 | ![Confusion Matrix](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Loan_Confusion%20Matrix.PNG) | ![ROC Curve](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Loan_ROC.PNG) | ![Feature Importance](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Loan_Feature%20Importance.PNG) |
+
+---
+
+## 🧠 Skills Demonstrated
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering & Transformation  
+- Classification Modeling (Logistic Regression, Decision Tree)  
+- ROC-AUC and Confusion Matrix Interpretation  
+- Model Evaluation & Feature Importance  
 
 ---
 
