@@ -46,14 +46,6 @@ This Tableau dashboard project analyzes IBM’s HR Analytics Attrition dataset t
 [📥 HR Analytics.twbx](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/HR%20Analytics%20Dashboard/HR%20Analytics.twbx)
 
 
----
-
-## 🏠 Use Case
-**Best suited for:**
-- HR Analysts and Talent Managers
-- Data analysts showcasing Tableau skills
-- Students building analytics portfolios
-- Executive stakeholders reviewing attrition risk
 
 ---
 
@@ -63,6 +55,15 @@ This Tableau dashboard project analyzes IBM’s HR Analytics Attrition dataset t
 - KPI & Drilldown Configuration  
 - Pivoting for Radar Visuals  
 - Filter Actions + Reset Logic
+
+  ---
+
+## 🏠 Use Case
+**Best suited for:**
+- HR Analysts and Talent Managers
+- Data analysts showcasing Tableau skills
+- Students building analytics portfolios
+- Executive stakeholders reviewing attrition risk
 
 ---
 
