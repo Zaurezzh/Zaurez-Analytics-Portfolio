@@ -46,14 +46,6 @@ This predictive analytics project uses Python to identify customers most likely 
 - Performance breakdown by `SeniorCitizen`, `Gender`, etc.  
 - Recall/precision analysis for bias detection
 
----
-### 🧠 Skills Demonstrated
-
-- End-to-end ML pipeline (EDA → Modeling → Explainability)
-SMOTE for imbalanced classification
-- Model evaluation and ROC-AUC comparison
-- SHAP for explainable AI (XGBoost + Local/Global explainability)
-- Subgroup analysis and fairness metrics
 
 ---
 
@@ -80,9 +72,13 @@ SMOTE for imbalanced classification
 ![ROC Comparison](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/ROC%20Curve.PNG)
 
 ---
+### 🧠 Skills Demonstrated
 
-### 📥 Download Notebook
-[📘 Telco_Customer_Churn.ipynb](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Customer_Churn_XGBoost/Telco_Customer_Churn.ipynb)
+- End-to-end ML pipeline (EDA → Modeling → Explainability)
+SMOTE for imbalanced classification
+- Model evaluation and ROC-AUC comparison
+- SHAP for explainable AI (XGBoost + Local/Global explainability)
+- Subgroup analysis and fairness metrics
 
 ---
 
@@ -90,6 +86,11 @@ SMOTE for imbalanced classification
 **Ideal for:**
 - Data scientists building end-to-end ML pipelines  
 - Analysts presenting churn risk to business stakeholders
+
+---
+
+### 📥 Download Notebook
+[📘 Telco_Customer_Churn.ipynb](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Customer_Churn_XGBoost/Telco_Customer_Churn.ipynb)
 
 ---
 
