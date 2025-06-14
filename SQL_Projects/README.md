@@ -7,7 +7,7 @@ Projects demonstrating advanced SQL querying skills including joins, subqueries,
 ## 📌 Projects Included
 
 ### ▸ Airbnb Listings Analysis  
-Analyzed rental patterns, pricing trends, and host performance using PostgreSQL.
+Analyzed rental patterns, pricing trends, and host performance using SqlLite3 in Google Collab.
 
 ### ▸ HR Analytics  
 Explored attrition and workforce distribution using joins, filters, and subqueries.
