@@ -10,7 +10,7 @@ This Power BI dashboard analyzes global superstore sales to uncover trends in re
 
 ### 🔧 Tools & Data
 - **Tool**: Power BI Desktop  
-- **Dataset**: Global Superstore (Kaggle)  
+- **Dataset**: ]Global Superstore (Kaggle)](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
 - **Time Period**: 2011–2014
 
 ### 🔍 Key Features
