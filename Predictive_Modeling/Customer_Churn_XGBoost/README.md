@@ -1,6 +1,7 @@
 # 🧠 Customer Churn Prediction Model (Python + ML)
 
-This machine learning project uses Python to predict customer churn using the Telco dataset. The model identifies which customers are likely to leave, based on demographics, account details, and service usage. This predictive analytics case study is ideal for advanced portfolio showcases and executive-level churn mitigation planning.
+This predictive analytics project uses Python to identify customers most likely to churn using the Telco Customer Churn dataset. The project demonstrates end-to-end machine learning workflow—from preprocessing and exploratory data analysis to model training and explainability using SHAP. Designed for both business impact and portfolio showcasing.
+
 
 ---
 
@@ -14,15 +15,15 @@ This machine learning project uses Python to predict customer churn using the Te
 ## 📊 Key Features
 
 ### ✅ Data Cleaning & Processing
-- Handled missing values (`TotalCharges`) and converted data types  
-- One-hot encoded categorical columns and standardized numerical features  
-- Class imbalance addressed using **SMOTE**
+- Imputed missing values (TotalCharges) and corrected data types
+- Performed one-hot encoding and feature standardization
+- Addressed class imbalance using SMOTE (Synthetic Minority Oversampling Technique)
 
 ### 🔍 Exploratory Data Analysis (EDA)
-- Distribution analysis of churn vs non-churn  
-- Correlation heatmap  
+- Churn vs Non-Churn distributions
+- Correlation matrix and heatmap
 - Boxplots for tenure, MonthlyCharges, etc.  
-- Statistical analysis (e.g., chi-square, ANOVA — optional extension)
+- Statistical analysis (e.g., chi-square, ANOVA)
 
 ### 🧠 Machine Learning Models
 - **Logistic Regression**: Baseline interpretable model  
@@ -34,7 +35,7 @@ This machine learning project uses Python to predict customer churn using the Te
 - Accuracy, Precision, Recall, F1-score  
 - Confusion Matrix  
 - ROC-AUC comparison for all models  
-- GridSearchCV tuning (optional)
+
 
 ### 🔍 Feature Importance & Explainability
 - Feature importance from Random Forest  
@@ -47,10 +48,18 @@ This machine learning project uses Python to predict customer churn using the Te
 
 ---
 
-## 🏠 Use Case
-**Ideal for:**
-- Data scientists building end-to-end ML pipelines  
-- Analysts presenting churn risk to business stakeholders  
+###🧠 Skills Demonstrated
+
+- End-to-end ML pipeline (EDA → Modeling → Explainability)
+SMOTE for imbalanced classification
+
+- Model evaluation and ROC-AUC comparison
+
+- SHAP for explainable AI (XGBoost + Local/Global explainability)
+
+- Subgroup analysis and fairness metrics
+
+
 
 
 ---
@@ -81,6 +90,13 @@ This machine learning project uses Python to predict customer churn using the Te
 
 ### 📥 Download Notebook
 [📘 Telco_Customer_Churn.ipynb](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Customer_Churn_XGBoost/Telco_Customer_Churn.ipynb)
+
+---
+
+## 🏠 Use Case
+**Ideal for:**
+- Data scientists building end-to-end ML pipelines  
+- Analysts presenting churn risk to business stakeholders
 
 ---
 
