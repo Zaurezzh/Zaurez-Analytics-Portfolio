@@ -47,20 +47,13 @@ This predictive analytics project uses Python to identify customers most likely 
 - Recall/precision analysis for bias detection
 
 ---
-
-###🧠 Skills Demonstrated
+### 🧠 Skills Demonstrated
 
 - End-to-end ML pipeline (EDA → Modeling → Explainability)
 SMOTE for imbalanced classification
-
 - Model evaluation and ROC-AUC comparison
-
 - SHAP for explainable AI (XGBoost + Local/Global explainability)
-
 - Subgroup analysis and fairness metrics
-
-
-
 
 ---
 
