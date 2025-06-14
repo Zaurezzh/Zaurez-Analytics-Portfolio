@@ -40,7 +40,7 @@ This predictive analytics project uses Python to identify customers most likely 
 ### 🔍 Feature Importance & Explainability
 - Feature importance from Random Forest  
 - **SHAP summary plot** for XGBoost  
-- Optional SHAP **force plots** for individual churn explanation
+
 
 ### ⚖️ Fairness & Subgroup Performance
 - Performance breakdown by `SeniorCitizen`, `Gender`, etc.  
