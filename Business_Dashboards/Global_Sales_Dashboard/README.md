@@ -69,15 +69,11 @@ This Power BI project analyzes global sales data from a fictional superstore to 
 ---
 
 🧠 Skills Demonstrated
-DAX-based KPI Calculations
-
-Drill-through & Dynamic Filtering
-
-Map Visualizations & Conditional Formatting
-
-Decomposition Tree & Hierarchical Analysis
-
-Custom Navigation & Report UX Design
+- DAX-based KPI Calculations
+- Drill-through & Dynamic Filtering
+- Map Visualizations & Conditional Formatting
+- Decomposition Tree & Hierarchical Analysis
+- Custom Navigation & Report UX Design
 
 ---
 
