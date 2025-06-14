@@ -41,9 +41,7 @@ This Power BI dashboard analyzes the operational, sales, and customer behavior p
 - Four customer segments: Bestsellers, Budget, Mid-tier, Premium  
 - Integrated R script for reproducibility
 
-### 👥 Customer Behavior: First-Time Orders
-- Tracks order volume from new customers over time  
-- Seasonality visible across quarters  
+
 
 ---
 
