@@ -47,13 +47,6 @@ This Power BI project analyzes global sales data from a fictional superstore to 
 ### 🔄 Navigation Dashboard
 - Interactive homepage with buttons to navigate to report sections
 
----
-
-## 🏠 Use Case
-**Ideal for:**
-- Business analysts presenting to leadership  
-- Portfolio builders showcasing Power BI expertise  
-- Students or professionals learning executive dashboards
 
 ---
 
@@ -74,6 +67,15 @@ This Power BI project analyzes global sales data from a fictional superstore to 
 [📥 Global_Sales_Dashboard.pbix](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Business_Dashboards/Global_Sales_Dashboard/Glob_Sal_Dash.pbix)
 
 ---
+
+## 🏠 Use Case
+**Ideal for:**
+- Business analysts presenting to leadership  
+- Portfolio builders showcasing Power BI expertise  
+- Students or professionals learning executive dashboards
+
+---
+
 
 ## 🎓 Author
 **Zaurez Hamid**  
