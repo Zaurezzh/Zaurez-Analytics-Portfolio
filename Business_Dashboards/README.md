@@ -56,10 +56,8 @@ This advanced Power BI dashboard explores operational KPIs and customer behavior
 - Executive Summary with KPIs & trend visuals  
 - Pareto Analysis: Top 20% pizza revenue contributors  
 - Decomposition Tree: Revenue by category → size → item  
-- Revenue Trend with rolling averages  
 - Time Series Forecasting using ARIMA & Prophet  
 - K-Means Clustering of pizzas by price & quantity (R-based)  
-- First-Time Customer Order Trend tracking  
 - Slicers, tooltips, and dynamic drilldowns
 
 
