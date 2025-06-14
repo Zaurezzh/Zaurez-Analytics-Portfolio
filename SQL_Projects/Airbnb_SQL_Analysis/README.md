@@ -1,6 +1,6 @@
 # 🏙️ Airbnb NYC SQL Analytics (SQLite + Colab)
 
-This project leverages advanced SQL features — including CTEs, window functions, nested queries, and aggregates — executed via Python in Google Colab using SQLite.
+This SQL analytics project explores New York City Airbnb listings using advanced SQL queries within a Python-Colab environment. The project highlights host behavior, neighborhood pricing trends, and room type distributions using SQLite and Python visualizations. Ideal for portfolio showcasing, SQL interviews, and business analytics scenarios.
 
 ---
 
@@ -35,13 +35,6 @@ This project leverages advanced SQL features — including CTEs, window function
 
 ---
 
-## 🏠 Use Cases
-**Ideal for:**
-- SQL case studies and interview prep
-- Business analysis for pricing, hosting behavior, or neighborhood comparisons
-
----
-
 ## 📸 Visual Outputs
 
 | Top Hosts | Room Types by Borough | Pricing Geo View |
@@ -53,6 +46,21 @@ This project leverages advanced SQL features — including CTEs, window function
 ## 📄 Notebook Preview
 [📥 AirBnB_Sql.ipynb](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/SQL_Projects/Airbnb_Analysis/AirBnB_Sql.ipynb)
 
+---
+
+## 🧠 Skills Demonstrated
+- Advanced SQL Querying (CTEs, Window Functions, Aggregates)  
+- Data Analysis in Python using SQLite  
+- Visual Storytelling with Matplotlib and Seaborn  
+- SQL for Business Insight Generation
+
+---
+
+## 🏠 Use Cases
+**Ideal for:**
+- SQL case studies and interview prep
+- Business analysis for pricing, hosting behavior, or neighborhood comparisons
+  
 ---
 
 ## 🎓 Author
