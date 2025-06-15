@@ -35,7 +35,7 @@ This machine learning project predicts loan approval status using classification
 ### 🔍 Modeling
 - **Logistic Regression**: Interpretable linear model for baseline  
 - **Decision Tree Classifier**: Captures non-linear relationships  
-- Train/Test split with 70:30 ratio  
+- Train/Test split with 75:25 ratio  
 - **Evaluation Metrics**:  
   - Confusion matrix  
   - Precision, Recall, F1-score  
