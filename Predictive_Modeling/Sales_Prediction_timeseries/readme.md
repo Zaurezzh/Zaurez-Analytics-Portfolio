@@ -40,6 +40,17 @@ This advanced time series project predicts daily sales for an e-commerce busines
 
 ---
 
+## 💡 Skills Demonstrated
+- Time series forecasting with classical (Prophet) and deep learning (LSTM) models
+- STL decomposition, autocorrelation analysis, and anomaly detection
+- Feature engineering with lag-based regression
+- Hyperparameter tuning and cross-validation using rolling-origin methods
+- Model evaluation using RMSE, MAE, and visual comparisons
+- Matplotlib/seaborn-based data visualization
+- TensorFlow/Keras sequence modeling
+
+---
+
 ## 🏠 Use Case
 **Ideal for:**
 - Inventory and demand planning in e-commerce
