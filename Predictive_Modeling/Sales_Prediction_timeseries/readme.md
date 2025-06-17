@@ -60,7 +60,7 @@ This advanced time series project predicts daily sales for an e-commerce busines
 ---
 
 ## 📄 Notebook Preview
-[📥 sales_forecasting.ipynb](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Sales_Forecasting/sales_forecasting.ipynb)
+[📥 sales_forecasting.ipynb](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Sales_Prediction_timeseries/Sales_forecast.ipynb)
 
 ---
 
