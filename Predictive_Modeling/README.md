@@ -39,8 +39,17 @@ This machine learning project predicts loan approval status using classification
 - 📈 **Interpretability & Performance**
 
 ---
-### ▸ Sales Forecasting  
-Regression models built with Scikit-Learn and Prophet to forecast monthly sales.
+## 📈 [Sales Forecasting with Machine Learning](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Sales_Prediction_timeseries/readme.md)(Python)
+This advanced time series project predicts daily sales for an e-commerce business using multiple forecasting techniques. It includes baseline regression, interpretable Prophet models, and LSTM deep learning — offering a robust comparison of forecasting accuracy and temporal modeling power.
+
+- **Tool**: Python (Google Colab)
+- **Dataset**: [E-Commerce Dataset – Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+
+## 📊 Key Features
+
+- ✅ **Data Preparation & EDA**
+- 🧼 **Preprocessing**
+- 🔍 **Modeling**
 
 ---
 
