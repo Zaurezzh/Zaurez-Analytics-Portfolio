@@ -1,6 +1,6 @@
 # 🧠 Predictive Modeling Projects
 
-This folder contains end-to-end machine learning workflows — from data preprocessing to model evaluation and deployment.
+This folder contains end-to-end machine learning workflows — from data preprocessing to model evaluation.
 
 ---
 
