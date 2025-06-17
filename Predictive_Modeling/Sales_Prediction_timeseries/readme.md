@@ -36,7 +36,7 @@ This advanced time series project predicts daily sales for an e-commerce busines
 
 | Prophet CV RMSE | Forecast Plot (Prophet vs Linear vs LSTM) |
 |------------------|--------------------------------------------|
-| ![Prophet CV RMSE](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/prophet_cv_rmse.png) | ![Forecast Plot](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/sales_forecast_comparison.png) |
+| ![Prophet CV RMSE](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Prophet%20CV%20RMSE.PNG) | ![Forecast Plot](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Assets/Forecast%20Plot%20(Prophet%20vs%20Linear%20vs%20LSTM).PNG) |
 
 ---
 
