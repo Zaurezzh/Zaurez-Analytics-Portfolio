@@ -55,7 +55,7 @@ This advanced time series project predicts daily sales for an e-commerce busines
 **Ideal for:**
 - Inventory and demand planning in e-commerce
 - Business forecasting projects across retail and logistics
-- Academic showcase (Master’s or PhD-level) for time series modeling expertise
+
 
 ---
 
