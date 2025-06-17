@@ -24,7 +24,7 @@ This project applies supervised machine learning to predict customer churn using
 
 ---
 
-## 💰 Loan Default Risk Modeling (Python)
+## 💰 [Loan Default Risk Modeling](https://github.com/Zaurezzh/Zaurez-Analytics-Portfolio/blob/main/Predictive_Modeling/Loan%20Default%20Risk%20Modeling/README.md) (Python)
 This machine learning project predicts loan approval status using classification models on a real-world financial dataset. It combines advanced EDA, feature engineering, and model interpretability to support credit decision-making and demonstrate end-to-end predictive analytics.
 
 
@@ -34,7 +34,7 @@ This machine learning project predicts loan approval status using classification
 ## 📊 Key Features
 
 - ✅ **Data Exploration & Feature Engineering**
-- 🧼 **Preprocessing **
+- 🧼 **Preprocessing**
 - 🔍 **Modeling**
 - 📈 **Interpretability & Performance**
 
@@ -46,9 +46,6 @@ Regression models built with Scikit-Learn and Prophet to forecast monthly sales.
 
 ## 🛠 Tools & Libraries
 - Python (Pandas, NumPy, Scikit-Learn, XGBoost)
-- Jupyter Notebooks
-- R (Prophet, caret)
+- Google Colab Notebooks
 
-- ## 📸 Preview
-![Customer Churn Confusion Matrix](../../Assets/churn_conf_matrix.png)
 
