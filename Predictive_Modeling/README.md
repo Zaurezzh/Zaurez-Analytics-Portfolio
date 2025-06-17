@@ -10,7 +10,7 @@ This folder contains end-to-end machine learning workflows — from data preproc
 This project applies supervised machine learning to predict customer churn using the Telco dataset. It integrates advanced preprocessing, class balancing, multiple classification models, and SHAP explainability for interpretability.  
 
 
-- **Tool**: Python (Jupyter / Colab)  
+- **Tool**: Python (Google Colab)  
 - **Dataset**: [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 
 ## 📊 Key Features
@@ -24,9 +24,21 @@ This project applies supervised machine learning to predict customer churn using
 
 ---
 
-### ▸ Loan Default Risk Modeling  
-Logistic regression and decision tree models applied to financial data to predict loan defaults.
+## 💰 Loan Default Risk Modeling (Python)
+This machine learning project predicts loan approval status using classification models on a real-world financial dataset. It combines advanced EDA, feature engineering, and model interpretability to support credit decision-making and demonstrate end-to-end predictive analytics.
 
+
+- **Tool**: Python (Google Colab)
+- **Dataset**: [Loan Prediction Dataset – Kaggle](https://www.kaggle.com/datasets/ninzaami/loan-predication)
+
+## 📊 Key Features
+
+- ✅ **Data Exploration & Feature Engineering**
+- 🧼 **Preprocessing **
+- 🔍 **Modeling**
+- 📈 **Interpretability & Performance**
+
+---
 ### ▸ Sales Forecasting  
 Regression models built with Scikit-Learn and Prophet to forecast monthly sales.
 
